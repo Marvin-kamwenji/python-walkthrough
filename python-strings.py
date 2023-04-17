@@ -45,3 +45,6 @@ print(b.strip())  #returns "Hello, World!"
 
 # REPLACE STRING
 print(a.replace("H", "J"))
+
+# SPLIT STRING
+print(b.split(",")) #returns 'Hello', 'world!'
